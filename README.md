@@ -10,16 +10,15 @@
 
 Includes:
 
-* [Actions Blank CI Starter Workglow](https://github.com/actions/starter-workflows/blob/main/ci/blank.yml)
-* [bnb's](https://github.com/bnb) [Codespaces Base Starter](https://github.com/codespaces-examples/base)
+* [Actions Blank CI Starter Workglow](https://github.com/actions/
 * Choice of licenses:
-    * [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-    * [GPL 3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
-    * [MIT License](https://opensource.org/license/mit/)
+  * [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+  * [GPL 3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
+  * [MIT License](https://opensource.org/license/mit/)
 * [Shields.io](https://shields.io/) [Badges](https://github.com/badges/shields)
 
 # C++ Resources
 
 * Microsoft
-    * [Development Containers Community](https://github.com/devcontainers)  
-    * [C++ Development Container Images](https://mcr.microsoft.com/en-us/product/devcontainers/cpp/tags)
+  * [Development Containers Community](https://github.com/devcontainers)  
+  * [C++ Development Container Images](https://mcr.microsoft.com/en-us/product/devcontainers/cpp/tags)
