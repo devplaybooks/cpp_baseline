@@ -1,7 +1,1 @@
-FROM ubuntu:latest
-
-WORKDIR /home/
-
-COPY . .
-
-RUN bash ./setup.sh
+FROM mcr.microsoft.com/devcontainers/cpp:dev-debian
