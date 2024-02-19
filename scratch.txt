@@ -3,16 +3,12 @@
    
 
 
-        binutils \
-
         clang-tidy \
         clangd \
         ccache \
         # development tools
 
-        valgrind \
         # python3 support
         python3-pip \
-        # required for testing
-        libgtest-dev \
+
         lcov 
